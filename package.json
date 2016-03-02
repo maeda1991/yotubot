@@ -1,0 +1,22 @@
+{
+  "name": "yotubot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maeda1991/yotubot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maeda1991/yotubot/issues"
+  },
+  "homepage": "https://github.com/maeda1991/yotubot#readme",
+  "dependencies": {
+    "botkit": "0.0.7"
+  }
+}
